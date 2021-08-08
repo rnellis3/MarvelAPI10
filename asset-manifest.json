@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MarvelAPI10/static/css/main.99c7390f.chunk.css",
-    "main.js": "/MarvelAPI10/static/js/main.4c10f656.chunk.js",
-    "main.js.map": "/MarvelAPI10/static/js/main.4c10f656.chunk.js.map",
+    "main.js": "/MarvelAPI10/static/js/main.30682dda.chunk.js",
+    "main.js.map": "/MarvelAPI10/static/js/main.30682dda.chunk.js.map",
     "runtime-main.js": "/MarvelAPI10/static/js/runtime-main.19f31aab.js",
     "runtime-main.js.map": "/MarvelAPI10/static/js/runtime-main.19f31aab.js.map",
     "static/js/2.e008c14a.chunk.js": "/MarvelAPI10/static/js/2.e008c14a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.19f31aab.js",
     "static/js/2.e008c14a.chunk.js",
     "static/css/main.99c7390f.chunk.css",
-    "static/js/main.4c10f656.chunk.js"
+    "static/js/main.30682dda.chunk.js"
   ]
 }
