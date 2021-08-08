@@ -7,7 +7,8 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 function App() {
 
   return (
-    <div className="container">
+    <div className="container"
+    basename="/React">
     <BrowserRouter>
     <Switch>
      <Route exact path="/" component={Landing} />
